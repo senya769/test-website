@@ -1,0 +1,33 @@
+head{    background:#E1BEE7 ;}
+body{
+    background:#E1BEE7 ;
+    margin: 0;
+}
+.btn-primary{
+    background: green;
+}
+a{
+    background-color: white;
+    text-decoration: none;
+}
+.panel a{
+    float: right;
+    margin: 0 5px;
+    border: white solid 1px;
+    border-radius: 5px;
+}
+.panel a:hover{
+background: white;
+    color: black;
+}
+.btn-close-white i{
+font-size: 27px;
+}
+.form-floating{
+ text-align: center;
+}
+.bg-purple{
+    background-color: #8E24AA;
+}
+h6{ text-align: center;
+}

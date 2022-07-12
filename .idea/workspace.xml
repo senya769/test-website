@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="servlets:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b964a6fc-e22c-4463-a0aa-98231c0ed5c7" name="Changes" comment="save pref demo">
+      <change beforePath="$PROJECT_DIR$/../javaCoreTasks" beforeDir="false" afterPath="$PROJECT_DIR$/../javaCoreTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/controllers/ConnectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/controllers/ConnectServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/controllers/RegServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/controllers/RegServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/repository/impl/ImplUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/repository/impl/ImplUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/resources/JDBCConnector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/profile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/profile.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AZoPq8pVtggeGSQTuOZ7KCsBWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\webapp" />
+      <recent name="D:\учеба\teachmeskills\servlets" />
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\java\com\website" />
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\com\Website" />
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\java\com\Website" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\webapp" />
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\webapp\resources\features" />
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\webapp\resources" />
+      <recent name="D:\учеба\teachmeskills\servlets" />
+      <recent name="D:\учеба\teachmeskills\servlets\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.website.conroller" />
+      <recent name="com.Website.controllers" />
+      <recent name="com.Website.resources" />
+      <recent name="com.Website.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.draft">
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Website.demo" />
+      <module name="servlets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Website.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="draft" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.64" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="servlets:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/servlets_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="5cd9e642-33a3-4849-bca8-d338ceba1772" />
+        <option name="HTTP_PORT" value="9090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62027" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="servlets:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.demo" />
+      <item itemvalue="Tomcat Server.draft" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b964a6fc-e22c-4463-a0aa-98231c0ed5c7" name="Changes" comment="" />
+      <created>1655226450921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655226450921</updated>
+      <workItem from="1655226452580" duration="6496000" />
+      <workItem from="1655395833240" duration="7691000" />
+      <workItem from="1655454131425" duration="2954000" />
+      <workItem from="1655551035018" duration="3671000" />
+      <workItem from="1655630465240" duration="5334000" />
+      <workItem from="1655713140639" duration="1713000" />
+      <workItem from="1655714918889" duration="1904000" />
+      <workItem from="1655727568987" duration="1894000" />
+      <workItem from="1655730206907" duration="1320000" />
+      <workItem from="1655732886776" duration="203000" />
+      <workItem from="1655733116826" duration="1542000" />
+      <workItem from="1655739297509" duration="840000" />
+      <workItem from="1655740316973" duration="460000" />
+      <workItem from="1655741111427" duration="168000" />
+      <workItem from="1655741791915" duration="5000" />
+      <workItem from="1655741987735" duration="171000" />
+      <workItem from="1655743339954" duration="748000" />
+      <workItem from="1655744167356" duration="809000" />
+      <workItem from="1655745343592" duration="5819000" />
+      <workItem from="1655751233008" duration="265000" />
+      <workItem from="1655751575594" duration="1375000" />
+      <workItem from="1655808600290" duration="3222000" />
+      <workItem from="1655827709975" duration="657000" />
+      <workItem from="1655831045346" duration="3237000" />
+      <workItem from="1655930607855" duration="4052000" />
+      <workItem from="1655966621734" duration="764000" />
+      <workItem from="1655986292106" duration="7551000" />
+      <workItem from="1656000742125" duration="833000" />
+      <workItem from="1656001712629" duration="2105000" />
+      <workItem from="1656061468889" duration="3941000" />
+      <workItem from="1656073612465" duration="165000" />
+      <workItem from="1656342665965" duration="594000" />
+      <workItem from="1656414081821" duration="3996000" />
+      <workItem from="1657041362970" duration="4356000" />
+      <workItem from="1657045859328" duration="732000" />
+      <workItem from="1657101793502" duration="7712000" />
+      <workItem from="1657482790952" duration="287000" />
+      <workItem from="1657629753823" duration="3422000" />
+      <workItem from="1657638845844" duration="1661000" />
+      <workItem from="1657651778967" duration="2187000" />
+    </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1655729549999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655729549999</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixup! push">
+      <created>1655730389789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655730389789</updated>
+    </task>
+    <task id="LOCAL-00003" summary="push">
+      <created>1655730575538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655730575538</updated>
+    </task>
+    <task id="LOCAL-00004" summary="push">
+      <created>1655751490551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655751490551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="push">
+      <created>1655752036778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655752036778</updated>
+    </task>
+    <task id="LOCAL-00006" summary="push">
+      <created>1655752153511</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655752153511</updated>
+    </task>
+    <task id="LOCAL-00007" summary="push">
+      <created>1655752412772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655752412772</updated>
+    </task>
+    <task id="LOCAL-00008" summary="push">
+      <created>1655752480568</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655752480568</updated>
+    </task>
+    <task id="LOCAL-00009" summary="push">
+      <created>1655752506938</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655752506938</updated>
+    </task>
+    <task id="LOCAL-00010" summary="push">
+      <created>1655752561644</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655752561644</updated>
+    </task>
+    <task id="LOCAL-00011" summary="push">
+      <created>1655752674619</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655752674619</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added new branch &quot;profile_test&quot; and optimize more bugs">
+      <created>1655811545808</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655811545808</updated>
+    </task>
+    <task id="LOCAL-00013" summary="save pref demo">
+      <created>1657042740447</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657042740447</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixup! push" />
+    <MESSAGE value="push" />
+    <MESSAGE value="added new branch &quot;profile_test&quot; and optimize more bugs" />
+    <MESSAGE value="save pref demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="save pref demo" />
+  </component>
+</project>
