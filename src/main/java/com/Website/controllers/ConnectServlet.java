@@ -20,7 +20,7 @@ public class ConnectServlet extends HttpServlet {
 private final String ERROR_NOT_FOUND = "Not Found this Account";
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
+        getServletContext().getRequestDispatcher("/profileTest.jsp").forward(req, resp);
     }
 
     @Override
@@ -29,19 +29,19 @@ private final String ERROR_NOT_FOUND = "Not Found this Account";
         String pas = req.getParameter("password");
 
 
-            HttpSession session = req.getSession();
+          //  HttpSession session = req.getSession();
         if (implUser.findByLoginAndPassword(log, pas) != null) {
             User user = implUser.findByLoginAndPassword(log, pas);
-            session.setAttribute("name", user.getName());
-            session.setAttribute("login", log);
-            session.setAttribute("surName", user.getSurName());
-            session.setAttribute("age", user.getAge());
-            session.setAttribute("id",user.getId());
-            session.setAttribute("status",user.getStatusAccount());
+            req.setAttribute("name", user.getName());
+            req.setAttribute("login", log);
+            req.setAttribute("surName", user.getSurName());
+            req.setAttribute("age", user.getAge());
+            req.setAttribute("id",user.getId());
+            req.setAttribute("status",user.getStatusAccount());
             //getServletContext().getRequestDispatcher("/profile.jsp").forward(req,resp);
             getServletContext().getRequestDispatcher("/profileTest.jsp").forward(req, resp);
         } else {
-            session.setAttribute("isValid", ERROR_NOT_FOUND);
+            req.setAttribute("isValid", ERROR_NOT_FOUND);
             getServletContext().getRequestDispatcher("/singIn.jsp").forward(req, resp);
         }
     }

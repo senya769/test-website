@@ -10,7 +10,7 @@
 <body>
 
 <nav class="navbar navbar-dark bg-purple">
-    <a class="btn btn-close-white" href="profileTest.jsp" role="button"><i class="fa fa-home"></i> Home</a>
+    <a class="btn btn-close-white" href="connect" role="button"><i class="fa fa-home"></i> Home</a>
     <div class="panel">
         <a class="btn btn-light" href="singIn.jsp" role="button">Exit</a>
     </div>

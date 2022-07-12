@@ -27,10 +27,10 @@
                 <label>Login</label>
             </div>
             <div class="form-floating mb-3">
-                <input type="text" class="form-control" name="password">
-                <label>Password</label>
+                <input type="password" class="form-control" name="password">
+                <label > Password</label>
             </div>
-            <br><br>
+            <br>
             <button type="submit" class="btn btn-primary" >Next</button>
         </div>
     </div>

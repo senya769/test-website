@@ -21,7 +21,7 @@ public class RegServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        // getServletContext().getRequestDispatcher("/singOut.html").forward(req, resp);
+         getServletContext().getRequestDispatcher("/profileTest.jsp").forward(req, resp);
     }
 
     @Override

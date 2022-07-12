@@ -9,14 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b964a6fc-e22c-4463-a0aa-98231c0ed5c7" name="Changes" comment="save pref demo">
+    <list default="true" id="b964a6fc-e22c-4463-a0aa-98231c0ed5c7" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javaCoreTasks" beforeDir="false" afterPath="$PROJECT_DIR$/../javaCoreTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/controllers/ConnectServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/controllers/ConnectServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/controllers/RegServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/controllers/RegServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/repository/impl/ImplUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Website/repository/impl/ImplUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Website/resources/JDBCConnector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/profile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/profile.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +22,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="jsf" />
         <option value="Interface" />
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="jsf" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="main" />
+        <entry key="$PROJECT_DIR$/.." value="feature.profile_test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -221,6 +216,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.demo" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657042740447</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="test">
+      <created>1657658760891</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657658760891</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +387,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="new_main_branch" />
                       </list>
                     </value>
                   </entry>
@@ -398,6 +404,7 @@
     <MESSAGE value="push" />
     <MESSAGE value="added new branch &quot;profile_test&quot; and optimize more bugs" />
     <MESSAGE value="save pref demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="save pref demo" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

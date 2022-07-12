@@ -15,13 +15,13 @@
                 </div>
                 <div class="text-center mt-3">
                     <span class="bg-secondary p-1 px-4 rounded text-white">
-                    <%= session.getAttribute("status") %>
+                    <%= request.getAttribute("status") %>
                     </span>
-                    <h5 class="mt-2 mb-0"><%= session.getAttribute("name")%>
+                    <h5 class="mt-2 mb-0"><%= request.getAttribute("name")%>
                         <br>
-                        <%= session.getAttribute("surName")%>
+                        <%= request.getAttribute("surName")%>
                     </h5>
-                    <span>Age: <%= session.getAttribute("age")%></span>
+                    <span>Age: <%= request.getAttribute("age")%></span>
                     <ul class="social-list">
                         <li><i class="fa fa-facebook"></i></li>
                         <li><i class="fa fa-instagram"></i></li>
